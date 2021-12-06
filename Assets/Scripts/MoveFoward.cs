@@ -25,5 +25,10 @@ public class MoveFoward : MonoBehaviour
             Destroy(gameObject);
         }
 
+        if (transform.position.x < fowardBound && gameObject.CompareTag("Crab"))
+        {
+            Destroy(gameObject);
+        }
+
     }
 }

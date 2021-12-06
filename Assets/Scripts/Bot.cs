@@ -32,6 +32,7 @@ public class Bot : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        target = GameObject.Find("Player");
         agent = this.GetComponent<NavMeshAgent>();
         rbBody = target.GetComponent<Rigidbody>();
     }

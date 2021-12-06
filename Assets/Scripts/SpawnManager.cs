@@ -5,6 +5,7 @@ using UnityEngine;
 public class SpawnManager : MonoBehaviour
 {
     public GameObject obsPrefab;
+    public GameObject CrabPrefab;
     private Vector3 spawnpos = new Vector3(0, 2, 56);
     private PlayerController playerCtrl;
 
@@ -12,6 +13,7 @@ public class SpawnManager : MonoBehaviour
     void Start()
     {
         InvokeRepeating("SpawnObs", 2, 1);
+        InvokeRepeating("SpawnCrab", 4, 10);
     }
 
     // Update is called once per frame
@@ -28,4 +30,14 @@ public class SpawnManager : MonoBehaviour
             Instantiate(obsPrefab, spawnpos, obsPrefab.transform.rotation);
         }
     }
+
+    void SpawnCrab()
+    {
+        {
+            spawnpos = new Vector3(Random.Range(-7, 7), -0.5f, 56);
+
+            Instantiate(CrabPrefab, spawnpos, CrabPrefab.transform.rotation);
+        }
+    }
+
 }
