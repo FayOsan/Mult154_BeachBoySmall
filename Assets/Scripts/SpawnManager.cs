@@ -8,11 +8,13 @@ public class SpawnManager : MonoBehaviour
     public GameObject CrabPrefab;
     private Vector3 spawnpos = new Vector3(0, 2, 56);
     private PlayerController playerCtrl;
+    GameManager GManager;
 
     // Start is called before the first frame update
     void Start()
     {
-        InvokeRepeating("SpawnObs", 2, 1);
+        GManager = GameObject.Find("GameManager").GetComponent<GameManager>();
+        InvokeRepeating("SpawnShark", 2, 4);
         InvokeRepeating("SpawnCrab", 4, 10);
     }
 
@@ -22,10 +24,11 @@ public class SpawnManager : MonoBehaviour
 
     }
 
-    void SpawnObs()
+    void SpawnShark()
     {
+        if (GManager.GameActive == true)
         {
-            spawnpos = new Vector3(Random.Range(-14, 14),-0.5f ,56);
+            spawnpos = new Vector3(Random.Range(-14, 14),0.25f ,120);
             
             Instantiate(obsPrefab, spawnpos, obsPrefab.transform.rotation);
         }
@@ -33,8 +36,9 @@ public class SpawnManager : MonoBehaviour
 
     void SpawnCrab()
     {
+        if (GManager.GameActive == true)
         {
-            spawnpos = new Vector3(Random.Range(-7, 7), -0.5f, 56);
+            spawnpos = new Vector3(Random.Range(-7, 7), 0.50f, 56);
 
             Instantiate(CrabPrefab, spawnpos, CrabPrefab.transform.rotation);
         }

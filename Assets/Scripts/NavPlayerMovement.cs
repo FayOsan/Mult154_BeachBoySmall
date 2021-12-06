@@ -11,6 +11,7 @@ public class NavPlayerMovement : MonoBehaviour
     float rotate = 0;
     public Animator anim;
     private Camera camera;
+    GameManager GManager;
 
     public delegate void DropHive(Vector3 pos);
     public static event DropHive pickedUpShell;
@@ -19,20 +20,24 @@ public class NavPlayerMovement : MonoBehaviour
     {
         anim = GetComponent<Animator>();
         rgBody = GetComponent<Rigidbody>();
+        GManager = GameObject.Find("GameManager").GetComponent<GameManager>();
     }
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        /*if (Input.GetKeyDown(KeyCode.Space))
         {
             pickedUpShell?.Invoke(transform.position + (transform.forward * 10));
-        }
+        }*/
         // Get the horizontal and vertical axis.
         // By default they are mapped to the arrow keys.
         // The value is in the range -1 to 1
         //float translation = Input.GetAxis("Vertical");
-        float translation = Input.GetAxis("Horizontal");
+        if (GManager.GameActive == true)
+        {
+            float translation = Input.GetAxis("Horizontal");
 
-        trans += translation;
+            trans += translation;
+        }
         //rotate += rotation;
     }
 
@@ -52,6 +57,7 @@ public class NavPlayerMovement : MonoBehaviour
         if (collision.gameObject.tag == "Shark")
         {
             anim.SetTrigger("PlayerIsDead");
+            GManager.GameActive = false;
         }
     }
 

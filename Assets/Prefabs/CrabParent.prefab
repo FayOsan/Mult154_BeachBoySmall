@@ -1,5 +1,17 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &9135369734077343525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8251573713016298193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb3192da7a67c2f418420eacb4a003f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &9135369733613044646
 GameObject:
   m_ObjectHideFlags: 0
@@ -9,6 +21,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9135369733613044647}
+  - component: {fileID: 9000812206708975881}
   m_Layer: 0
   m_Name: CrabParent
   m_TagString: Untagged
@@ -32,6 +45,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9000812206708975881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9135369733613044646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d5d06eb06ef8f247b4a9692011ddd27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: -20
 --- !u!1 &9135369733619066056
 GameObject:
   m_ObjectHideFlags: 0
@@ -48,7 +74,6 @@ GameObject:
   - component: {fileID: 9135369733619066059}
   - component: {fileID: 9135369733619066058}
   - component: {fileID: 9135369733619066057}
-  - component: {fileID: 9135369733619066097}
   m_Layer: 0
   m_Name: CrabSand
   m_TagString: Crab
@@ -201,19 +226,6 @@ MonoBehaviour:
   - {fileID: 9135369734117801857}
   - {fileID: 9135369734315606726}
   - {fileID: 9135369734166313929}
---- !u!114 &9135369733619066097
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9135369733619066056}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d5d06eb06ef8f247b4a9692011ddd27, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 3
 --- !u!1 &9135369734054007347
 GameObject:
   m_ObjectHideFlags: 0
@@ -320,18 +332,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 454486d2dae474048b7a46ad38f7a144, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &9135369734077343525
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8251573713016298193}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eb3192da7a67c2f418420eacb4a003f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &9135369734117801857
@@ -493,7 +493,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9135369735213805702}
-  - component: {fileID: 9135369735213805703}
   m_Layer: 0
   m_Name: CrabWayPoint
   m_TagString: Untagged
@@ -520,19 +519,6 @@ Transform:
   m_Father: {fileID: 9135369733613044647}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &9135369735213805703
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9135369735213805701}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d5d06eb06ef8f247b4a9692011ddd27, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: -3
 --- !u!1001 &9135369734077343547
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -562,7 +548,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 883867495767834070, guid: 6cd6af3621699ec46847da0b605210a2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.8652986
+      value: 2.88
       objectReference: {fileID: 0}
     - target: {fileID: 883867495767834070, guid: 6cd6af3621699ec46847da0b605210a2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -602,13 +588,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6cd6af3621699ec46847da0b605210a2, type: 3}
---- !u!1 &8251573713016298193 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 883867495767834090, guid: 6cd6af3621699ec46847da0b605210a2, type: 3}
-  m_PrefabInstance: {fileID: 9135369734077343547}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &8251573713016298221 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 883867495767834070, guid: 6cd6af3621699ec46847da0b605210a2, type: 3}
+  m_PrefabInstance: {fileID: 9135369734077343547}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8251573713016298193 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 883867495767834090, guid: 6cd6af3621699ec46847da0b605210a2, type: 3}
   m_PrefabInstance: {fileID: 9135369734077343547}
   m_PrefabAsset: {fileID: 0}

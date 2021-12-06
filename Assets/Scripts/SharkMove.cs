@@ -8,15 +8,18 @@ public class SharkMove : MonoBehaviour
     private PlayerController playerCtrl;
     private float fowardBound = -20;
     public Animator anim;
+    GameManager GManager;
     // Start is called before the first frame update
     void Start()
     {
+        GManager = GameObject.Find("GameManager").GetComponent<GameManager>();
         anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (GManager.GameActive == true)
         {
             transform.Translate(Vector3.forward * Time.deltaTime * speed);
         }

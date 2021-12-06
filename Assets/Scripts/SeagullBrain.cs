@@ -7,10 +7,12 @@ public class SeagullBrain : MonoBehaviour
     private Bot bot;
     private Vector3 shellPos;
     private bool hasShell = false;
+    GameManager GManager;
 
     // Start is called before the first frame update
     void Start()
     {
+        GManager = GameObject.Find("GameManager").GetComponent<GameManager>();
         bot = GetComponent<Bot>();
         NavPlayerMovement.pickedUpShell += shellAcquired;
     }
@@ -24,13 +26,17 @@ public class SeagullBrain : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (hasShell)
+        if (GManager.GameActive == true)
         {
-            bot.Seek(shellPos);
+            if (hasShell)
+            {
+                bot.Seek(shellPos);
+            }
+            else
+            {
+                bot.Wander();
+            }
         }
-        else
-        {
-            bot.Wander();
-        }
+
     }
 }
