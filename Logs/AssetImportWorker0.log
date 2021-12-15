@@ -2357,3 +2357,665 @@ Received Import Request.
 Start importing Assets/Darth_Artisan/Free_Trees/Meshes/Palm_Tree.fbx using Guid(1e50ef3048667495d90210b70c070c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3f3d8562b7acb99b4094af74e80f3a3') in 0.044875 seconds 
   Import took 0.050999 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1304.827892 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Animations
+  artifactKey: Guid(389170da8f2a7b54fab118388ba480a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Animations using Guid(389170da8f2a7b54fab118388ba480a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc57cea090efe2230ba7a9ce7113f997') in 0.011937 seconds 
+  Import took 0.019279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.962713 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Animations/Slime
+  artifactKey: Guid(10e0c415a9ecedd49a3d4d5e29395d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Animations/Slime using Guid(10e0c415a9ecedd49a3d4d5e29395d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8be84f23fef51677e5a063da943e3d0') in 0.011721 seconds 
+  Import took 0.017602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.461510 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Animations/Slime/Run_Slime_Anim.fbx
+  artifactKey: Guid(dbf4e442d523220489ca9531ab20161f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Animations/Slime/Run_Slime_Anim.fbx using Guid(dbf4e442d523220489ca9531ab20161f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b18d3b06e496936dec9a9d4a00da7b0d') in 0.043662 seconds 
+  Import took 0.050250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.551748 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Meshes/SlimeMesh.fbx
+  artifactKey: Guid(1f499d0eded7a4245b0c36149a43da4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Meshes/SlimeMesh.fbx using Guid(1f499d0eded7a4245b0c36149a43da4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2121128e8ca87b721aad0fc256b04955') in 0.038618 seconds 
+  Import took 0.044002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Meshes/SlimeMeshPBR.fbx
+  artifactKey: Guid(032e9c3d6b8f7bd4281b52741574f3af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Meshes/SlimeMeshPBR.fbx using Guid(032e9c3d6b8f7bd4281b52741574f3af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1c1dc42974bc7d117990da86697ce4') in 0.046049 seconds 
+  Import took 0.051611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.356992 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Prefabs/Slime.prefab
+  artifactKey: Guid(a817c29ea6847604bb2c6c51d9a74bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Prefabs/Slime.prefab using Guid(a817c29ea6847604bb2c6c51d9a74bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e27593e012416760f28cf47887c93da') in 0.028840 seconds 
+  Import took 0.036111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Prefabs/SlimePBR.prefab
+  artifactKey: Guid(55776efecb0cd134ea5f418c2f97a705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Prefabs/SlimePBR.prefab using Guid(55776efecb0cd134ea5f418c2f97a705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fe0cdb6aa46542240e0d1080dc98b43') in 0.081258 seconds 
+  Import took 0.088210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.938180 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/PolyartDefault.mat
+  artifactKey: Guid(507d4aa237c275a48b72e5772879be66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/PolyartDefault.mat using Guid(507d4aa237c275a48b72e5772879be66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fedf8cfcb84647e4c5ffb61790a8ea5') in 0.021209 seconds 
+  Import took 0.026900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/TurtleShellPBR.mat
+  artifactKey: Guid(b3ad386aba28716448079dcf67d7aede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/TurtleShellPBR.mat using Guid(b3ad386aba28716448079dcf67d7aede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5971da933a2834d4dbe38dc77815afd') in 0.032617 seconds 
+  Import took 0.038068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/Stage.mat
+  artifactKey: Guid(19f8a934c4d1c2b47b1d094b83f39fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/Stage.mat using Guid(19f8a934c4d1c2b47b1d094b83f39fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab7ac87efc2b058cf60e63adb0165bd1') in 0.073975 seconds 
+  Import took 0.080069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/Skybox_Mat.mat
+  artifactKey: Guid(97f1fc767078c904184a5800339690a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/Skybox_Mat.mat using Guid(97f1fc767078c904184a5800339690a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '597393c22b35caddc8113a661eacc2c0') in 0.027113 seconds 
+  Import took 0.033979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/SlimePBR.mat
+  artifactKey: Guid(d357a802e5ef4d44d829d89dfb1a341c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/SlimePBR.mat using Guid(d357a802e5ef4d44d829d89dfb1a341c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20e3f72e04c4bea3ed6056b1bcebbe31') in 0.027979 seconds 
+  Import took 0.033383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/Skybox_Mat.mat
+  artifactKey: Guid(97f1fc767078c904184a5800339690a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/Skybox_Mat.mat using Guid(97f1fc767078c904184a5800339690a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '597393c22b35caddc8113a661eacc2c0') in 0.022892 seconds 
+  Import took 0.028878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/SlimePBR.mat
+  artifactKey: Guid(d357a802e5ef4d44d829d89dfb1a341c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/SlimePBR.mat using Guid(d357a802e5ef4d44d829d89dfb1a341c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20e3f72e04c4bea3ed6056b1bcebbe31') in 0.032506 seconds 
+  Import took 0.039331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.501674 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Textures/PBRSlimeAlbedo.png
+  artifactKey: Guid(0f625c9ed25ed7c479d59c9a7e72177b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Textures/PBRSlimeAlbedo.png using Guid(0f625c9ed25ed7c479d59c9a7e72177b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe4b38e9685d54fa40438938a56fb10e') in 0.020047 seconds 
+  Import took 0.026519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Textures/PBRSlimeAO.png
+  artifactKey: Guid(ea614ba314598d14ebe9e9cdff6a47cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Textures/PBRSlimeAO.png using Guid(ea614ba314598d14ebe9e9cdff6a47cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef6248e7e9d90126000efe65a7b31ba') in 0.026949 seconds 
+  Import took 0.032650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Textures/PBRSlimeNormal.png
+  artifactKey: Guid(18abd5f4e9c11924a95611d5a0813704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Textures/PBRSlimeNormal.png using Guid(18abd5f4e9c11924a95611d5a0813704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd55f9db7c616457cd9344f4f3d9736ef') in 0.025559 seconds 
+  Import took 0.031224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Textures/PBRSlimeAO.png
+  artifactKey: Guid(ea614ba314598d14ebe9e9cdff6a47cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Textures/PBRSlimeAO.png using Guid(ea614ba314598d14ebe9e9cdff6a47cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef6248e7e9d90126000efe65a7b31ba') in 0.019241 seconds 
+  Import took 0.027130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Textures/PBRSlimeMetallicSmoothness.png
+  artifactKey: Guid(55ceae9efe5bd70448ee58c1d30bb773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Textures/PBRSlimeMetallicSmoothness.png using Guid(55ceae9efe5bd70448ee58c1d30bb773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76209c118672e4225b4138fee97900a1') in 0.030844 seconds 
+  Import took 0.036772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.245716 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Textures
+  artifactKey: Guid(6840729219228ab4880b45e06d1e3211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Textures using Guid(6840729219228ab4880b45e06d1e3211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '105fc8f0546d33c8dc62a0e63fd93b81') in 0.010200 seconds 
+  Import took 0.017590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.651603 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Textures/CrabTexture.mat
+  artifactKey: Guid(beda62c27ea6d9145b12030f150f4f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Textures/CrabTexture.mat using Guid(beda62c27ea6d9145b12030f150f4f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '455047fdb31be0140f5896e34f841240') in 0.047122 seconds 
+  Import took 0.056538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.298678 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Animators/Slime.controller
+  artifactKey: Guid(fb53b4d3a4f06844c90da7297e9082de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Animators/Slime.controller using Guid(fb53b4d3a4f06844c90da7297e9082de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db59657c2db894487eb711a869b0027e') in 0.012661 seconds 
+  Import took 0.019987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.218260 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Animators/Slime.controller
+  artifactKey: Guid(fb53b4d3a4f06844c90da7297e9082de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Animators/Slime.controller using Guid(fb53b4d3a4f06844c90da7297e9082de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ddb90060540a5342d213e6552eb7217') in 0.016779 seconds 
+  Import took 0.031701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.426604 seconds.
+  path: Assets/Prefabs/SlimePBR.prefab
+  artifactKey: Guid(d8b58d2e332b1d042af96a2fed8ec3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SlimePBR.prefab using Guid(d8b58d2e332b1d042af96a2fed8ec3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38864753103b5fe0ec10060df14bb27') in 0.069338 seconds 
+  Import took 0.078981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.537646 seconds.
+  path: Assets/Prefabs/SlimePBR.prefab
+  artifactKey: Guid(d8b58d2e332b1d042af96a2fed8ec3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SlimePBR.prefab using Guid(d8b58d2e332b1d042af96a2fed8ec3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14ecbd795e14ffc6740a077a9b6fbc31') in 0.043654 seconds 
+  Import took 0.053162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.516837 seconds.
+  path: Assets/Prefabs/SlimePBR.prefab
+  artifactKey: Guid(d8b58d2e332b1d042af96a2fed8ec3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SlimePBR.prefab using Guid(d8b58d2e332b1d042af96a2fed8ec3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee58a3d1da977cbf08d959a7927fd8e8') in 0.028681 seconds 
+  Import took 0.036299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002329 seconds.
+  path: Assets/Prefabs/SlimePBR.prefab
+  artifactKey: Guid(d8b58d2e332b1d042af96a2fed8ec3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SlimePBR.prefab using Guid(d8b58d2e332b1d042af96a2fed8ec3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee58a3d1da977cbf08d959a7927fd8e8') in 0.027572 seconds 
+  Import took 0.033841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.030063 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '042b0a6490c93735502e637ab8c3c3ba') in 0.031755 seconds 
+  Import took 0.038276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.578826 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c74ef1efa1b311b19e461744588387') in 0.033400 seconds 
+  Import took 0.044685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.605431 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f383a96bb7121f5886034053f89081') in 0.030266 seconds 
+  Import took 0.036685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.825295 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e3e6ba19ae5b2ffdd2c2c60343cef45') in 0.036855 seconds 
+  Import took 0.043611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.058644 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '525c30b3d0d3f25e0815ba31693eb04f') in 0.032936 seconds 
+  Import took 0.041326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.167468 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4aad22415429fea228f3c02b6c760b') in 0.048653 seconds 
+  Import took 0.056715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.839118 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e13aae9631dff0cf847d5aaa94537f5a') in 0.045674 seconds 
+  Import took 0.053039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.371669 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1148c494be38fdd7d890ef00504e78f5') in 0.037036 seconds 
+  Import took 0.048079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.960753 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '164769df2652dd0a0095a8f3365274d4') in 0.069293 seconds 
+  Import took 0.080541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.174359 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a746c1c1dd546270d4afb1b1c8344be8') in 0.038266 seconds 
+  Import took 0.046211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.955702 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6268180d8f5f8b6961dbd482edf2c8b') in 0.028484 seconds 
+  Import took 0.035607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.575281 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98bc3b0c308ae970e1054f91e1665035') in 0.038577 seconds 
+  Import took 0.045912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.972555 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67b429b3a19ac4f08e6cd2b693b150a9') in 0.039828 seconds 
+  Import took 0.048578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.007928 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '993465b788d81a7db44da13a37decb4f') in 0.053215 seconds 
+  Import took 0.060132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.780158 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14645c2e9056d26fb767f0aa25665741') in 0.034948 seconds 
+  Import took 0.045523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.957068 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '925fdb18ee39258d05c3f4aff91a0329') in 0.031421 seconds 
+  Import took 0.040333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.443357 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '889c518ac5ee9c7b85788d51b04d80d5') in 0.030445 seconds 
+  Import took 0.037306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.608324 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '967bd1583c87d0e1afb5023746bfcc20') in 0.038445 seconds 
+  Import took 0.046640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.571993 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '283c8238fe8f980a6014852e9605ca1b') in 0.026480 seconds 
+  Import took 0.033198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.662189 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ab6feecf1972dfefb79868d3f00a78') in 0.038385 seconds 
+  Import took 0.044514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.604802 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99e82cef42151bae170d2df99298a5c5') in 0.039241 seconds 
+  Import took 0.046734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.209816 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25297a6bfe1901146162d3153cd8ff9a') in 0.038098 seconds 
+  Import took 0.045266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.988624 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '387db99db6278f10a8df217f04536604') in 0.052956 seconds 
+  Import took 0.062938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.563185 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64a554086174d605d869cf980397dd0b') in 0.046279 seconds 
+  Import took 0.057527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.201056 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fda7299bacf8cc654a4860f267bee0a6') in 0.036330 seconds 
+  Import took 0.044309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.966471 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a63a7b2247d5d1200552dcb746f98b1') in 0.030896 seconds 
+  Import took 0.038652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.374399 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1356f5a47fb439d75c0b63c65c060189') in 0.036259 seconds 
+  Import took 0.043211 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.024243 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.703 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1704ms)
+		BeginReloadAssembly (181ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (65ms)
+		EndReloadAssembly (1433ms)
+			LoadAssemblies (162ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (530ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (67ms)
+			SetupLoadedEditorAssemblies (453ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (131ms)
+				ProcessInitializeOnLoadAttributes (305ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (26ms)
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2635 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.3 MB.
+System memory in use after: 139.9 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 3482.
+Total: 6.669800 ms (FindLiveObjects: 0.712100 ms CreateObjectMapping: 0.463700 ms MarkObjects: 5.050000 ms  DeleteObjects: 0.441500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 120.086230 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9343ef7f2620b33690a5c641ae422bfe') in 0.223886 seconds 
+  Import took 0.231351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.153064 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e87915ed2f74d10b0d4d8bc531e33095') in 0.038054 seconds 
+  Import took 0.046639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.700482 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d72599eab41031236102a05751c021c') in 0.029659 seconds 
+  Import took 0.036409 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013893 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.746 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1747ms)
+		BeginReloadAssembly (190ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (70ms)
+		EndReloadAssembly (1394ms)
+			LoadAssemblies (174ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (502ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (460ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (132ms)
+				ProcessInitializeOnLoadAttributes (310ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (25ms)
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2635 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.4 MB.
+System memory in use after: 140.1 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 3521.
+Total: 5.736400 ms (FindLiveObjects: 0.590500 ms CreateObjectMapping: 0.244900 ms MarkObjects: 4.344600 ms  DeleteObjects: 0.554400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 32.084717 seconds.
+  path: Assets/Prefabs/CrabParent.prefab
+  artifactKey: Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrabParent.prefab using Guid(6928bfea4932df74c81dbb2a9337f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97ec6db8d086915d37017cfa90b5daa7') in 0.199961 seconds 
+  Import took 0.206294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.552297 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(b989201996033ed489a1d09b5d30c8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(b989201996033ed489a1d09b5d30c8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b101ae8e4529f30ec5bb01055cc7235b') in 0.043194 seconds 
+  Import took 0.061111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002548 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(b989201996033ed489a1d09b5d30c8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(b989201996033ed489a1d09b5d30c8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b101ae8e4529f30ec5bb01055cc7235b') in 0.033343 seconds 
+  Import took 0.040039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.861969 seconds.
+  path: Assets/Scenes/StartLevel.unity
+  artifactKey: Guid(d5c68977e2952c34b8fe3d95f903f1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartLevel.unity using Guid(d5c68977e2952c34b8fe3d95f903f1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afede71934fe4c7228d90deeb146f445') in 0.008278 seconds 
+  Import took 0.014456 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.018761 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.08 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.858 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1858ms)
+		BeginReloadAssembly (159ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (55ms)
+		EndReloadAssembly (1561ms)
+			LoadAssemblies (168ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (617ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (458ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (138ms)
+				ProcessInitializeOnLoadAttributes (299ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (24ms)
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2641 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.3 MB.
+System memory in use after: 141.9 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 3567.
+Total: 6.942900 ms (FindLiveObjects: 0.794300 ms CreateObjectMapping: 0.704300 ms MarkObjects: 4.533500 ms  DeleteObjects: 0.907600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
