@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SwimLevel.unity
     guid: 86ef07eeb722d624b8e9945d0e5f1617
   - enabled: 1
+    path: Assets/Scenes/DeathScene.unity
+    guid: 66ee066d512a9a640a18dd775be33bf5
+  - enabled: 1
     path: Assets/Scenes/EndScene.unity
     guid: 5a6f9e5400214404696ad31ca26b18f1
   m_configObjects: {}

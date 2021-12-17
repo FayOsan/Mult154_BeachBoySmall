@@ -7,6 +7,7 @@ TagManager:
   - Ocean
   - Shark
   - Crab
+  - Shell
   layers:
   - Default
   - TransparentFX

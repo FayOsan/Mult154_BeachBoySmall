@@ -14,8 +14,8 @@ public class SpawnManager : MonoBehaviour
     void Start()
     {
         GManager = GameObject.Find("GameManager").GetComponent<GameManager>();
-        InvokeRepeating("SpawnShark", 2, 4);
-        InvokeRepeating("SpawnCrab", 4, 10);
+        InvokeRepeating("SpawnShark", 1, 1);
+        InvokeRepeating("SpawnCrab", 4, 4);
     }
 
     // Update is called once per frame
@@ -28,7 +28,7 @@ public class SpawnManager : MonoBehaviour
     {
         if (GManager.GameActive == true)
         {
-            spawnpos = new Vector3(Random.Range(-14, 14),0.25f ,120);
+            spawnpos = new Vector3(Random.Range(-14, 14),0.10f ,120);
             
             Instantiate(obsPrefab, spawnpos, obsPrefab.transform.rotation);
         }

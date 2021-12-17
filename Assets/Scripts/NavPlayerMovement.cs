@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class NavPlayerMovement : MonoBehaviour
 {
@@ -12,6 +13,9 @@ public class NavPlayerMovement : MonoBehaviour
     public Animator anim;
     private Camera camera;
     GameManager GManager;
+    protected GameObject player;
+
+    private int Score = 0;
 
     public delegate void DropHive(Vector3 pos);
     public static event DropHive pickedUpShell;
@@ -21,6 +25,7 @@ public class NavPlayerMovement : MonoBehaviour
         anim = GetComponent<Animator>();
         rgBody = GetComponent<Rigidbody>();
         GManager = GameObject.Find("GameManager").GetComponent<GameManager>();
+        GameData.gamePlayStart = Time.time;
     }
     void Update()
     {
@@ -58,6 +63,22 @@ public class NavPlayerMovement : MonoBehaviour
         {
             anim.SetTrigger("PlayerIsDead");
             GManager.GameActive = false;
+            SceneManager.LoadScene("DeathScene");
+        }
+
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.tag == "Shell")
+        {
+            Score += 5;
+            Debug.Log("Scored " + Score);
+        }
+        if (Score >= 100)
+        {
+            GManager.GameActive = false;
+            SceneManager.LoadScene("EndScene");
         }
     }
 
